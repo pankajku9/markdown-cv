@@ -1,2 +1,3 @@
 markdown:   kramdown
 style:  kjhealy
+ignore_theme_config: BOOL
